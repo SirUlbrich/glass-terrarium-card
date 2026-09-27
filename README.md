@@ -2,11 +2,12 @@
 
 Eine benutzerdefinierte Home Assistant Lovelace-Karte im modernen Glassmorphism-Design zur Steuerung und Überwachung von Terrarien.
 
+![Glass Terrarium Card Preview](images/Übersicht.png)
 
 ## Features
 
 - **Übersicht-Tab:**
-  - Großanzeige für 2 Sonnenplatz-Temperaturen
+  - Großanzeige für bis zu 2 Sonnenplatz-Temperaturen
   - Bis zu 3 Umgebungszonen-Temperaturen
   - Anzeige für Luftfeuchtigkeit
 - **Steuerung-Tab:**
