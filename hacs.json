@@ -1,0 +1,8 @@
+{
+  "name": "Glass Terrarium Card",
+  "type": "plugin",
+  "render_readme": true,
+  "content_directory": "dist",
+  "filename": "glass-terrarium-card.js",
+  "license": "MIT"
+}
